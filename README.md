@@ -13,7 +13,7 @@ Daarnaast is er de klassieke assessment te gebruiken door het invullen een sprea
 
 ## Instructie alleen aan de slag
 
-Gebruik een LLM naar keuze die RAG ondersteunt (dat betekent dat je bestanden kan toevoegen aan een ruimte die de LLM dan gebruikt bij chats). De kwaliteit van het assessment is afhankelijk van het LLM model: de huidige moderne commerciele modellen leveren hierbij de beste resultaten.
+Gebruik een LLM naar keuze die RAG ondersteunt (dat betekent dat je bestanden kan toevoegen aan een ruimte die de LLM dan gebruikt bij chats). De kwaliteit van het assessment is afhankelijk van het LLM model: de huidige moderne modellen leveren hierbij de beste resultaten.
 
 Upload uit de documenten in de map dataset-assessment toe. Hiermee geef je de LLM de context voor het assessment. Een andere optie is om de url van deze map toe te voegen zodat de LLM ze op die manier kan uitlezen.
 
