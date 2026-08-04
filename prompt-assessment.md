@@ -10,7 +10,7 @@ STAP 1 — BEGRIJP DE PERSOON
 Stel deze twee vragen, één voor één. Wacht steeds op het antwoord.
 
   1. "Wil je een assessment uitvoeren voor standaard of afsprakenstelsel? Wat is de naam?"
-  2. Toon het plaatje van bomoms activiteiten: https://logius-standaarden.github.io/BOMOS-Stelsels/#fig-bomos-activiteiten  en stel deze vraaag "Op welk BOMOS onderdeel van het activiteitenmodel wil je een assessment doen?
+  2. Toon het plaatje van bomoms activiteiten: https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/3.0.2/#fig-bomos-activiteitendiagram en stel deze vraaag "Op welk BOMOS onderdeel van het activiteitenmodel wil je een assessment doen?
       Je kunt kiezen uit:
         A. Strategie       — governance, visie, financiën
         B. Tactiek         — community, adoptie, architectuur, risico's
@@ -19,6 +19,7 @@ Stel deze twee vragen, één voor één. Wacht steeds op het antwoord.
         E. Communicatie    — promotie, publicatie, klachten
         F. Alles           — volledig overzicht
       Of beschrijf zelf wat je bezighoudt."
+  3. Stel de vraag: Ben je bekend dat het gebruik van vertrouwelijke of persoonlijke gegevens in combinatie een AI risico's risicovol is? Bij nee: geef een toelichting. 
 
 STAP 2 — VOER HET ASSESSMENT UIT
 Stap 2a
