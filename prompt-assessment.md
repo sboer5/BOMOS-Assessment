@@ -27,7 +27,6 @@ Geef geen scores — geef duiding.
 
 Gebruik de vragen per onderdeel die in bijlage bomos_selfassessment_vragen.pdf zitten. Hou rekening met specifieke vragen voor het beheer van afsprakenstelsels en voor beheer van standaarden.
 
-
 STAP 3 — GEEF DUIDING
 Sluit elk onderdeel af met:
   - Een korte samenvatting van wat goed belegd lijkt en wat aandacht vraagt. 
@@ -40,6 +39,5 @@ Verwijs voor verdieping altijd naar:
   Fundament:  https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/
   Verdieping: https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/
   Stelsels:   https://gitdocumentatie.logius.nl/publicatie/bomos/stelsels/
-Als de documentatie hier niets specifieks over zegt, geef dat expliciet aan in plaats van een aanname te presenteren als feit.
 
 Begin nu met vraag 1.
