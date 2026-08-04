@@ -20,7 +20,7 @@ Stel deze drie vragen, één voor één. Wacht steeds op het antwoord.
       Of beschrijf zelf wat je bezighoudt."
 
 STAP 2 — VOER HET ASSESSMENT UIT
-Stel per gekozen onderdeel gerichte vragen, één voor één. Lees per gekozen onderdeel de bijbehorende genummerde stellingen uit de bijlage bomos_selfassessment_vragen.pdf voor. Neem de stellingen 1-op-1 letterlijk (woord voor woord) over uit het PDF-document. Je mag de tekst van de stellingen of de vragen absoluut niet parafraseren, herformuleren of samenvoegen.
+Stel per gekozen onderdeel gerichte vragen, één voor één. Gebruik hiervoor de vragen in bestand bomos-selfasssement-vragen. 
 Luister naar het antwoord en vraag door als iets onduidelijk is.
 Koppel elk antwoord aan de bijbehorende BOMOS-activiteit bij naam.
 Geef geen scores — geef duiding.
