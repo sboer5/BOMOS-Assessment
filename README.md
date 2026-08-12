@@ -9,7 +9,7 @@ Een BOMOS self-assessment kan zelfstandig uitvoeren maar de echte waarde van dit
 
 Doe je het assessment alleen? Dat werkt als volgt: gebruikt een LLM model naar keuze en gebruik de data en de prompt instructie voor het assessment die in deze repository staan. Hiermee creeer je een digitale adviseur waarmee je samen het assessment doorloopt en die je van advies voorziet. Deze werkwijze vervangt de regelhulp voor BOMOS.
 
-Daarnaast is er de klassieke assessment te gebruiken door het invullen een spreadsheet. Aangezien je hier niet direct feedback krijgt is deze manier vooral geschikt om als groep en onder begeleiding van een BOMOS-deskundige een assessment uit te voeren. De input en het gesprek daarover vormt dan de basis om samen met stakeholders terug te blikken en de prioriteiten voor de komende periode te bepalen. Logius kan hierbij ondersteunen.
+Daarnaast is er de klassieke assessment te gebruiken door het invullen een spreadsheet (deze sheet staat in de map self-assessmentoffline ). Aangezien je hier niet direct feedback krijgt is deze manier vooral geschikt om als groep en onder begeleiding van een BOMOS-deskundige een assessment uit te voeren. De input en het gesprek daarover vormt dan de basis om samen met stakeholders terug te blikken en de prioriteiten voor de komende periode te bepalen. Logius kan hierbij ondersteunen.
 
 ## Instructie alleen aan de slag
 
