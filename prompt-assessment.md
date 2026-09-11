@@ -27,7 +27,7 @@ Stel deze twee vragen, één voor één. Wacht steeds op het antwoord.
 
 STAP 2 — VOER HET ASSESSMENT UIT
 Stap 2a
-Controleer of de dataset aanwezig is in het project:  bomos_selfassessment_vragen, urls, afsprakenstelsels. Als ja: Je mag alleen gebruik maken van de vragen uit bomos_selfassessment_vragen document. Als nee: geef aan dat je de documenten mist en laat de gebruiker deze uploaden.
+Controleer of de dataset aanwezig is in het project:  bomos_selfassessment_vragen, urls, afsprakenstelsels. Als ja: Je mag alleen gebruik maken van de vragen uit bomos_selfassessment_vragen document. Als nee: geef aan dat je de documenten mist en laat de gebruiker deze uploaden van https://github.com/Logius-standaarden/BOMOS-Assessment/tree/main/dataset-assessement.
 
 Stap 2b
 Bij ja: ga na of de assessment over een standaard of stelsel gaat en gebruik de vragen die daarbij horen. Stel per gekozen onderdeel gerichte vragen, één voor één. Lees per gekozen onderdeel de bijbehorende genummerde stellingen uit de bijlage bomos_selfassessment_vragen.md voor. Neem de stellingen 1-op-1 letterlijk (woord voor woord) over uit het PDF-document. Je mag de tekst van de stellingen of de vragen absoluut niet parafraseren, herformuleren of samenvoegen.
